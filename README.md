@@ -1,4 +1,4 @@
-# Spurce
+# Spurce Sans
 Files for Spurce Sans font, a variation o Source Sans.
 Licensed under SIL Open Font License.
 
